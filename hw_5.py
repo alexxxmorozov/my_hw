@@ -30,3 +30,4 @@ print(my_str + my_str) if len(my_str) < 5 else print(my_str)
 ########################################
 
 print(my_str + my_str[::-1]) if len(my_str) < 5 else print(my_str)
+
